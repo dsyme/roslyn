@@ -31,7 +31,7 @@
     <MicrosoftCodeAnalysisVisualBasicVersion>1.0.1</MicrosoftCodeAnalysisVisualBasicVersion>
     <MicrosoftCodeAnalysisVisualBasicWorkspacesVersion>1.0.1</MicrosoftCodeAnalysisVisualBasicWorkspacesVersion>
     <MicrosoftCodeAnalysisWorkspacesCommonVersion>1.0.1</MicrosoftCodeAnalysisWorkspacesCommonVersion>
-    <MicrosoftCompositionVersion>1.0.27</MicrosoftCompositionVersion>
+    <SystemCompositionVersion>1.0.31</SystemCompositionVersion>
     <MicrosoftCSharpVersion>4.3.0</MicrosoftCSharpVersion>
     <MicrosoftDiagnosticsRuntimeVersion>0.8.31-beta</MicrosoftDiagnosticsRuntimeVersion>
     <MicrosoftDiagnosticsTracingTraceEventVersion>1.0.35</MicrosoftDiagnosticsTracingTraceEventVersion>
@@ -61,7 +61,7 @@
     <MicrosoftNuGetBuildTasksVersion>0.1.0</MicrosoftNuGetBuildTasksVersion>
     <MicrosoftPortableTargetsVersion>0.1.2-dev</MicrosoftPortableTargetsVersion>
     <MicrosoftServiceHubClientVersion>1.0.177-rc-g56d40a8a02</MicrosoftServiceHubClientVersion>
-    <MicrosoftTplDataflowVersion>4.5.24</MicrosoftTplDataflowVersion>
+    <SystemThreadingTasksDataflowVersion>4.5.24</SystemThreadingTasksDataflowVersion>
     <MicrosoftVisualBasicVersion>10.1.0</MicrosoftVisualBasicVersion>
     <MicrosoftVisualStudioCallHierarchyPackageDefinitionsVersion>15.0.26201-alpha</MicrosoftVisualStudioCallHierarchyPackageDefinitionsVersion>
     <MicrosoftVisualStudioCodeAnalysisSdkUIVersion>15.0.26201-alpha</MicrosoftVisualStudioCodeAnalysisSdkUIVersion>
